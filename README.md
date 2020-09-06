@@ -1,0 +1,3 @@
+# ramenman
+
+brew install hugo
